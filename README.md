@@ -19,9 +19,9 @@ Este projeto, desenvolvido com Vue 3, é uma aplicação de lista de tarefas que
 -   **Vue.js** - Framework JavaScript progressivo
 -   **Vite** - Ferramenta de build rápida para desenvolvimento front-end
 -   **Pinia** - Biblioteca de gerenciamento de estado
--   **JavaScript** - Linguagem de programação
--   **HTML** - Estrutura do conteúdo
--   **CSS** - Estilização da interface
+-   **JavaScript** - Linguagem de programação para desenvolvimento web
+-   **HTML** - Linguagem de marcação que estrutura o conteúdo na web
+-   **CSS** - Linguagem de estilos usada para definir o visual das interfaces web
 -   **Tailwind CSS** - Framework de estilos
 
 ## 🌐 Acesse o projeto online
